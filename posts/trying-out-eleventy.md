@@ -1,6 +1,6 @@
 ---
 title: Trying out Eleventy
-date: 2021-11-9
+date: 2021-11-09
 author: krabf
 summary: I'm curious about Eleventy
 tags:
